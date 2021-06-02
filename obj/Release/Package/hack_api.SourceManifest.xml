@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\av\Code\Solana Hackathon 2021-06\hack_api\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\av\Code\Solana Hackathon 2021-06\hack_api\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\av\Code\Solana Hackathon 2021-06\hack_api\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
